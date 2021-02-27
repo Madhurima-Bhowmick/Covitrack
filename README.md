@@ -17,6 +17,7 @@ Refer to disease.sh for the API.
 
 ## Scripts
 
-In the terminal type,
+To launch the application, go to the terminal and type,
 
-#### npm start
+<div class = "bg-blue-light mb-2">.text-gray-dark on .bg-blue-light </div>
+
