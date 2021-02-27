@@ -11,15 +11,16 @@ The "red" circle depicts the density of active Coronavirus cases of diiferent co
 
 
 
-
-
 ## API
 
 Refer to disease.sh for the API.
 
 
+
 ## Scripts
 
+
+Development starts by typing  ```create-react-app``` in the terminal, which requires node.js to be pre-installed. This will create a react application with the desired name.
 
 To install all the required packages, go to the terminal and type,
 
@@ -30,6 +31,15 @@ To launch the application, go to the terminal and type,
 
 ```npm start```
 
+
+
+###  Deployment
+
+The Covitrack application is successfully deployed and authorized using Firebase CLI, which is a third-party OAuth application with read:user and repo sources.
+
+###### The hosting URL is as
+
+[https://covitrack-bf188.web.app](https://covitrack-bf188.web.app)
 
 
 
